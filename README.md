@@ -1,5 +1,8 @@
 <h1 align="center"><b>Hi 👋, I'm Mohamed</b></h1>
-<h3 align="center">Frontend Developer • UI Lover • JavaScript Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer+•+UI+Lover+•+JavaScript+Enthusiast;Building+Modern+Web+Experiences..+🚀"></a>
+</p>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" alt="coding">
@@ -34,19 +37,21 @@
 
 ### 🛠️ Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="45"/>
-  <img src="https://skillicons.dev/icons?i=css" width="45"/>
+  <!-- Core Languages -->
   <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
   <img src="https://skillicons.dev/icons?i=typescript" width="45"/>
+  <img src="https://skillicons.dev/icons?i=python" width="45"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
+  <img src="https://skillicons.dev/icons?i=html" width="45"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45"/>
 
+  <br>
+
+  <!-- Frontend Frameworks & Tools -->
   <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
-
   <img src="https://skillicons.dev/icons?i=react" width="45"/>
   <img src="https://skillicons.dev/icons?i=redux" width="45"/>
   <img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
-  
-  <br>
-
   <img src="https://skillicons.dev/icons?i=vite" width="45"/>
   <img src="https://skillicons.dev/icons?i=vercel" width="45"/>
   <img src="https://skillicons.dev/icons?i=git" width="45"/>
