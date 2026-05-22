@@ -11,9 +11,10 @@
 ---
 
 ### 🌟 About Me
-- 🚀 Frontend Developer focused on building clean & modern web experiences   
-- 🌱 Currently learning **React & modern UI frameworks**
-- 🛠️ Dedicated to writing scalable code, state management, and robust automation workflows
+- 🚀 **Frontend Specialist:** Shifting pixel-perfect designs into high-performance, responsive web applications. Deeply focused on writing scalable, clean architecture using modern design patterns.
+- ⚡ **Advanced State & Performance:** Highly skilled in managing complex application states, optimizing rendering performance, and building seamless 3D/interactive digital experiences.
+- ⚙️ **Backend & Automation:** Proficient in building lightweight backend services, designing efficient databases, and implementing robust automation workflows ($n8n$) to streamline processes.
+- 🧪 **Testing & Quality:** Dedicated to continuous integration, code splitting, performance auditing, and ensuring comprehensive test coverage for maximum reliability.
 - 🇪🇬 From Egypt
 
 ---
@@ -22,12 +23,12 @@
 <p align="left">
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/mohamed-tharwat/" target="_blank">
+<a href="https://www.linkedin.com/in/mohamed-thawrat-194a42371/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 
 <!-- Gmail -->
-<a href="mailto:mohamed@example.com" target="_blank">
+<a href="mailto:mthawrat@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" width="40" />
 </a>
 
